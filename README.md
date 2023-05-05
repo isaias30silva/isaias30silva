@@ -2,7 +2,6 @@
 
 - 🔭 Estudante de Engenharia de Computação - 2º semestre (UNIVESP)
 - 🌱 Aprendendo tecnologias Front e Back-End (HTML, CSS, JS, Java)
-- 🌱 Participante do Bootcamp "Transforma Tec"
 - 📫 Meu e-mail: isaias30silva@gmail.com
 
 <div align="center">
