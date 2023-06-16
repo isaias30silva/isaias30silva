@@ -1,6 +1,6 @@
 ### Olá, Eu sou o Isaías!👋
 
-- 🔭 Estudante de Engenharia de Computação - 2º semestre (UNIVESP)
+- 🔭 Estudante de Engenharia de Computação(UNIVESP) - 3º semestre (2022/2027)
 - 🌱 Aprendendo tecnologias Front e Back-End (HTML, CSS, JS, Java)
 - 📫 Meu e-mail: isaias30silva@gmail.com
 
